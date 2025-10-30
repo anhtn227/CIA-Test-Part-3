@@ -1,0 +1,5 @@
+{
+  "name": "CIA Exam Practice Tool",
+  "description": "An interactive web application to help users prepare for the CIA Part 3 exam by taking practice tests based on grounded study materials, tracking history, and identifying weak topics for focused review.",
+  "requestFramePermissions": []
+}
